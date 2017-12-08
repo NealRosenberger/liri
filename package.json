@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NealRosenberger/liri/issues"
   },
-  "homepage": "https://github.com/NealRosenberger/liri#readme"
+  "homepage": "https://github.com/NealRosenberger/liri#readme",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
 }
